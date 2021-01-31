@@ -2,6 +2,7 @@
 Mention to bot, bot select user randomly in the channel.  
 Typical usage is when asking someone for a task.  
 It uses [Socket Mode](https://api.slack.com/apis/connections/socket-implement)
+![screenshot](screenshot.png)
 
 ## Usage in Slack
 Mention bot user name then bot select a member in the channel randomly.
